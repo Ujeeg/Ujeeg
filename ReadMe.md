@@ -15,6 +15,7 @@ Tools
 - SQL (Postgresql, MySQL, SQL Server, BigQuery)
 - Python (Libraries: numpy, pandas, SciPy, sklearn)
 - Visualization: Tableau, matplotlib, seaborn, looker studio
+- Talend (ETL)
 
 
 
